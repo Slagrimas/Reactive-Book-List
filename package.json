@@ -1,0 +1,19 @@
+{
+  "name": "reactive-book-list",
+  "version": "1.0.0",
+  "description": "React exercise - extendable for Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Slagrimas/Reactive-Book-List.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Slagrimas/Reactive-Book-List/issues"
+  },
+  "homepage": "https://github.com/Slagrimas/Reactive-Book-List#readme"
+}
